@@ -1,0 +1,47 @@
+/*body {
+  background-color: #04a7a8;
+}
+*/
+
+/* Nav Bar */
+.navbar {
+  background-color: #04a7a8;
+}
+
+.nav-link:hover {
+  background-color: #0e6880;
+  color: white;
+}
+
+.nav-item:hover {
+  background-color: #0e6880;
+  color: white;
+}
+
+.searchBtn {
+  background-color: #0e6880;
+  color: white;
+  box-shadow: rgba(74, 77, 77, 0.5) 0 2px 5px 0;
+  border-radius: 8px;
+  border: none;
+  border-color: none;
+}
+
+.searchBtn:hover {
+  background-color: #ffbd58;
+  color: #0e6880;
+  transition: ease-in-out;
+}
+
+/* main section 1 intro*/
+
+section {
+}
+
+h1 {
+  font-size: 40px;
+}
+.strapline {
+  margin: 60px;
+  color: #ffbd58;
+}
